@@ -35,15 +35,15 @@ class NotesItem extends StatelessWidget {
             ),
             trailing: IconButton(
               onPressed: () {},
-              icon: Icon(
+              icon: const Icon(
                 FontAwesomeIcons.trash,
                 size: 24,
                 color: Colors.black,
               ),
             ),
           ),
-          Padding(
-            padding: const EdgeInsets.only(right: 24),
+          const Padding(
+            padding: EdgeInsets.only(right: 24),
             child: Text(
               'oct3,2024',
               style: TextStyle(fontSize: 24,color: Colors.black),
