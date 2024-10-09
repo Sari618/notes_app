@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:notes_app/view/widgets/customButton.dart';
+import 'package:notes_app/view/widgets/custom_button.dart';
 import 'package:notes_app/view/widgets/custom_textfield.dart';
 
 class AddNoteButtonSheet extends StatelessWidget {
