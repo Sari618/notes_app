@@ -1,5 +1,3 @@
-import 'package:flutter/material.dart';
-
 class NoteModle{
 final String title;
 final String subTitle;
